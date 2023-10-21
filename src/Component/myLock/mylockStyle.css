@@ -1,0 +1,35 @@
+/* table {
+    overflow-x: auto;
+    display: inline-block;
+} */
+
+@media screen and (max-width: 800px) {
+    table {
+        overflow-x: auto;
+        display: inline-block;
+    }
+
+    .table {
+
+        height: auto !important;
+
+
+    }
+}
+
+@media (min-width:600px) and (max-width: 800px) {
+  
+
+    .table {
+
+        height: 15rem !important;
+
+
+    }
+}
+
+th{
+    color: white !important;
+    font-family: 'Exo 2', sans-serif;
+
+}

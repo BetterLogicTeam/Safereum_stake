@@ -1,0 +1,32 @@
+.staking {
+    padding: 1rem 0;
+    max-width: 450px;
+    margin: auto;
+}
+.staking__heading {
+    text-transform: uppercase;
+    font-weight: 900;
+    font-size: 1.25rem;
+    color: white !important;
+    font-family: 'Exo 2', sans-serif;
+    /* font-family: 'Exo 2', sans-serif;!important; */
+}
+.staking__apy, .staking__tvl {
+    display: flex;
+    /* width: -webkit-max-content; */
+    /* width: max-content; */
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    padding: 0.5rem 1rem;
+}
+.staking__tvl {
+    flex-direction: column;
+}
+
+
+.staking__tvl_text{
+    color: white !important;
+    font-family: 'Exo 2', sans-serif !important;
+}

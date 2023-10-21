@@ -1,0 +1,160 @@
+.main_back {
+  background: radial-gradient(
+    100.93% 100.93% at 50.83% 0.66%,
+    rgba(77, 0, 138, 0.85) 0,
+    #001355 49.08%,
+    #000535 100%
+  ) !important;
+  /* background-image: url("battle_staking.png"); */
+ 
+}
+.total_baxk {
+  padding: 1rem 2rem 0.5rem;
+  width: max-content;
+  min-width: 265px;
+  margin: 1rem auto;
+  box-shadow: rgb(116, 54, 128) 0px 0px 50px 0px;
+  min-height: 5.7rem;
+  color: white;
+  
+  
+  background: linear-gradient(270deg, rgba(6, 97, 0, 0.8) 0%, rgba(0, 82, 73, 0.8) 50%) padding-box padding-box, linear-gradient(45deg, rgb(137, 210, 243), rgb(166, 124, 255)) border-box border-box !important;
+  border: 3px solid transparent !important;
+border-radius: 12px !important;
+}
+
+.tab-css{
+background-color: transparent;
+width: max-content !important;
+margin: auto !important;
+border-radius: 50pc;
+border: 2px solid #04F3F3 ;
+width: 30% !important;
+/* opacity: ; */
+}
+.mak_flxx_bttn.Mui-selected{
+  display: inline-flex;
+  -webkit-box-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  justify-content: center;
+  position: relative;
+  box-sizing: border-box;
+  -webkit-tap-highlight-color: transparent;
+  outline: 0px;
+  border: 0px;
+  margin: 0px;
+  cursor: pointer;
+  user-select: none;
+  vertical-align: middle;
+  appearance: none;
+  text-decoration: none;
+  /* font-family: 'IBM Plex Mono', monospace; */
+  font-family: 'Exo 2', sans-serif;
+  font-weight: 500;
+  font-size: 0.9375rem;
+  line-height: 1.75;
+  text-transform: uppercase;
+  min-width: 64px;
+  padding: 8px 15px;
+  border-radius: 10000px;
+  /* transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, border-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms; */
+  color: rgba(0, 0, 0, 0.87) !important;
+  background-color:#04F3F3;
+  /* box-shadow: rgba(0, 0, 0, 0.2) 0px 3px 1px -2px, rgba(0, 0, 0, 0.14) 0px 2px 2px 0px, rgba(0, 0, 0, 0.12) 0px 1px 5px 0px; */
+    border-radius: 50pc !important;
+}
+
+.mak_flxx_bttn{
+  width: 50% !important;
+}
+
+.css-1wf8b0h-MuiTabs-flexContainer{
+    padding: 1px 2px 1px 2px !important;
+}
+.css-1aquho2-MuiTabs-indicator{
+    display: none !important;
+}
+.css-19kzrtu {
+  padding: 7px !important;
+}
+@media only screen and (max-width: 600px) {
+  .mak_flxx_bttn{
+    width: 50% !important;
+  }
+
+  .tab-css{
+    background-color: transparent;
+    width: max-content !important;
+    margin: auto !important;
+    border-radius: 50pc;
+    border: 2px solid #04F3F3 ;
+    width: 90% !important;
+    }
+    .border_css{
+      background-color: rgb(5, 9, 90);
+    
+      margin: 0px !important;
+     border-radius: 12px !important;
+      border: 1px solid rgb(56, 195, 207) ;
+      box-shadow: 0 0 31px rgb(149 100 211 / 50%);
+      width: 100% !important;
+    }
+  
+}
+.border_css{
+  background-color: rgb(5, 9, 90);
+  width: max-content !important;
+  margin: auto !important;
+ border-radius: 12px !important;
+  border: 1px solid rgb(56, 195, 207) ;
+  box-shadow: 0 0 31px rgb(149 100 211 / 50%);
+  width: 50% !important;
+}
+.btn_css{
+  border-radius: 12px !important;
+}
+
+.css-16fwhjm {
+  position: relative;
+  flex: 1 1 0%;
+  border-radius: 1rem;
+  background-color: black;
+  /* background: linear-gradient(270deg, rgba(6, 97, 0, 0.8) 0%, rgba(0, 82, 73, 0.8) 50%) padding-box padding-box, linear-gradient(45deg, rgb(137, 210, 243), rgb(166, 124, 255)) border-box border-box !important; */
+  border: 2px solid #04F3F3 !important;
+}
+
+
+
+.chakra-text{
+  font-family: 'Exo 2', sans-serif !important;
+}
+.css-1mqe0od {
+  font-weight: 900 !important;
+  font-size: 0.875rem !important;
+  color: #fff !important;
+  text-transform: uppercase !important;
+  text-align: center !important;
+  font-family: 'Exo 2', sans-serif !important ;
+}
+.css-1snxiwx {
+  vertical-align: baseline;
+  font-weight: 600;
+  font-size: 1.5rem;
+  font-variant-numeric: proportional-nums;
+  display: flex;
+  width: max-content;
+  margin-inline: auto;
+}
+.css-je7iwd {
+  display: flex;
+  width: max-content;
+  margin-inline: auto;
+}
+
+
+.site_font{
+  color: white !important;
+  font-family: 'Exo 2', sans-serif !important; 
+
+}
